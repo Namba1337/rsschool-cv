@@ -1,7 +1,5 @@
 # Noskov Nikita
 
-![Photo](link to photo or avatar)
-
 ## Contacts
 - Email: ya.nos96@gmail.com
 - Phone: +X (XXX) XXX-XX-XX
@@ -35,7 +33,7 @@ say_hello()
     - Technical Support (2015 - 2019)
     - Technical Support Team Leader (2019 - 2022)
 - Prof-IT
-    - Technical Support (2019 - now)
+    - Technical Support (2019 - 2023)
 ## Language
 - Russian: basic
 - English: A2: Pre-Intermediate
